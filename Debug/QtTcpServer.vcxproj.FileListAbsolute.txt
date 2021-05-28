@@ -1,0 +1,2 @@
+C:\Users\Administrator\source\repos\QtTcpServer\Debug\QtTcpServer.exe
+E:\Workspace\QtTcpServer\Debug\QtTcpServer.exe

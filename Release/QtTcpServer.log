@@ -1,0 +1,11 @@
+﻿  moc QtTcpServer.h
+  moc ClientSocket.h
+  moc ServerHandler.h
+  ClientSocket.cpp
+  QtTcpServer.cpp
+  ServerHandler.cpp
+  main.cpp
+  moc_ClientSocket.cpp
+  moc_QtTcpServer.cpp
+  moc_ServerHandler.cpp
+  QtTcpServer.vcxproj -> E:\Workspace\QtTcpServer\Release\QtTcpServer.exe
